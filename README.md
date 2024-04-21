@@ -1,3 +1,3 @@
-# I am learnig git and github 
+# I am learning git and github 
 ## kunal kushwah
 ## apna college
